@@ -1,0 +1,19 @@
+instance boxqp c_cut sdp_cut sdp_cut_eigen kelly qcr
+spar020-100-1.in 31 
+spar020-100-2.in 207 
+spar020-100-3.in 0 
+spar030-060-1.in 11700 
+spar030-060-2.in 50 
+spar030-060-3.in 3669 
+spar030-070-1.in 128305 
+spar030-070-2.in 0 
+spar030-070-3.in 707 
+spar030-080-1.in 27003 
+spar030-080-2.in 0 
+spar030-080-3.in 31 
+spar030-090-1.in 0 
+spar030-090-2.in 111 
+spar030-090-3.in 0 
+spar030-100-1.in 3 
+spar030-100-2.in 16117 
+spar030-100-3.in 3681 
